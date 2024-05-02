@@ -34,7 +34,7 @@ For the sake of completeness, this guide will explain all the components on a si
 	:align: center
 
 - **Section 1** is the title bar. It contains the name of your site, as well as icons for accessing certain features.
-- **Section 2** shows current information about the status of various systems reporting to Nightscout or other DYI diabetes applications such as an artificial pancreas (OpenAPS or other).
+- **Section 2** shows current information about the status of various systems reporting to Nightscout or other DIY diabetes applications such as an artificial pancreas (OpenAPS or other).
 - **Section 3** shows current information about you, your treatment, and the items medically attached to you.
 - **Section 4** shows your basal infusion rate over time, if available.
 - **Section 5** shows your glucose values over time, along with treatments such as food and insulin treatments.
